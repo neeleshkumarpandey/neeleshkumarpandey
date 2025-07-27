@@ -31,22 +31,17 @@
 
 ### 📊 GitHub Stats
 
-<details>
-  <summary>🌙 Dark Theme</summary>
-  
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=neeleshkumarpandey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </p>
-  
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshkumarpandey&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </p>
-  
-  <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeleshkumarpandey&theme=tokyonight" alt="GitHub Streak" />
-  </p>
-  
-</details>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=neeleshkumarpandey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshkumarpandey&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeleshkumarpandey&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <details>
   <summary>☀️ Light Theme</summary>
