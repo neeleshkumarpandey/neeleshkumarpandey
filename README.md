@@ -72,7 +72,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/neelesh-kumar-pandey-8343bb34a/)" target="blank">
+  <a href="https://www.linkedin.com/in/neelesh-kumar-pandey-8343bb34a/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
