@@ -2,7 +2,7 @@
 <h3 align="center">React | React Native | Go | Docker | Oracle DB</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rama-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rama-the-dev" />
+  <img src="https://komarev.com/ghpvc/?username=neeleshkumarpandey&label=Profile%20views&color=0e75b6&style=flat" alt="neeleshkumarpandey" />
 </p>
 
 ---
@@ -35,15 +35,15 @@
   <summary>🌙 Dark Theme</summary>
   
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=rama-the-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=neeleshkumarpandey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </p>
   
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rama-the-dev&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshkumarpandey&layout=compact&theme=tokyonight" alt="Top Langs" />
   </p>
   
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rama-the-dev&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeleshkumarpandey&theme=tokyonight" alt="GitHub Streak" />
   </p>
   
 </details>
@@ -52,15 +52,15 @@
   <summary>☀️ Light Theme</summary>
   
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=rama-the-dev&show_icons=true&theme=default" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=neeleshkumarpandey&show_icons=true&theme=default" alt="GitHub Stats" />
   </p>
   
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rama-the-dev&layout=compact&theme=default" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshkumarpandey&layout=compact&theme=default" alt="Top Langs" />
   </p>
   
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rama-the-dev&theme=default" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeleshkumarpandey&theme=default" alt="GitHub Streak" />
   </p>
 </details>
 
